@@ -8,10 +8,10 @@ If you're seeing this, you've probably already done this step. Congrats!
 
 ```sh
 # create a new project in the current directory
-npx sv create
+bun x sv create
 
 # create a new project in my-app
-npx sv create my-app
+bun x sv create my-app
 ```
 
 ## Developing
